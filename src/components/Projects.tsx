@@ -1,9 +1,9 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import project1Image from "@/assets/project1-mobile.jpg";
-import project2Image from "@/assets/project2-saas.jpg";
-import project3Image from "@/assets/project3-ecommerce.jpg";
+import project1Image from "@/assets/placeholder.jpg";
+import project2Image from "@/assets/placeholder.jpg";
+import project3Image from "@/assets/placeholder.jpg";
 
 const Projects = () => {
   const projects = [
