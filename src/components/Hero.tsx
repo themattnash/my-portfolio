@@ -25,7 +25,7 @@ const Hero = () => {
           <p className="text-xl lg:text-2xl font-light mb-8 opacity-90 animate-fade-in [animation-delay:200ms]">
             Product leader with 15+ years of experience building impactful, scalable solutions in e-commerce, marketplaces, and SaaS. Passionate about using emerging tech and data to solve complex problems.
           </p>
-          <!--<p className="text-lg lg:text-xl mb-12 max-w-2xl mx-auto opacity-80 animate-fade-in [animation-delay:400ms]">
+          {/*<p className="text-lg lg:text-xl mb-12 max-w-2xl mx-auto opacity-80 animate-fade-in [animation-delay:400ms]">
             Using emerging tech and data to solve complex problems • Turning ideas into products users love • Customer-first mindset driving growth
           </p>
           
@@ -43,7 +43,7 @@ const Hero = () => {
             >
               Get In Touch
             </Button>
-          </div>-->
+          </div>*/}
         </div>
       </div>
       
