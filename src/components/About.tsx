@@ -27,14 +27,14 @@ const About = () => {
   return (
     <section id="about" className="section-spacing gradient-subtle">
       <div className="container-custom">
-        <div className="text-center mb-16">
+        {/*<div className="text-center mb-16">
           <h2 className="text-4xl lg:text-5xl font-bold text-foreground mb-6">
             About Matt
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             Product leader with 15+ years of experience building impactful, scalable solutions in e-commerce, marketplaces, and SaaS. Passionate about using emerging tech and data to solve complex problems.
           </p>
-        </div>
+        </div>*/}
 
         <div className="grid lg:grid-cols-2 gap-16 items-center mb-16">
           <div>
